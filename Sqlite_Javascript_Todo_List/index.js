@@ -45,4 +45,4 @@ function deleteTask(id) {
 }
 
 // Initial load: Fetch tasks from the server and update the UI
- getTasks();
+getTasks();
